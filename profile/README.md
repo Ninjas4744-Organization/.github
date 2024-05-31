@@ -36,3 +36,5 @@ The vision of our group is to raise interest and curiosity among the youth of Ha
     Ninjas4744 Website
 </a>
 
+Icons by: <a target="_blank" href="https://icons8.com">Icons8</a>
+
