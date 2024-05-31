@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://github.com/Ninjas4744-Organization/.github/blob/main/profile/Facebook%20photo.jpg" alt="Ninjas 4744 Team Photo" />
       <h2>Ninjas 4744</h2>
-      <img src="./Hi.gif" alt="Hi" width="30" height="30" />
+      <img src="https://github.com/Ninjas4744-Organization/.github/blob/main/profile/Hi.gif" alt="Hi" width="30" height="30" />
     </div>
 </div>
 
@@ -12,6 +12,8 @@
 ---
 
 ### Visit our social networks:
+
 [Ninjas4744 Instagram](https://www.instagram.com/NINJAS4744/)
 
 [Ninjas4744 Facebook](https://www.facebook.com/Ninjas4744/)
+
