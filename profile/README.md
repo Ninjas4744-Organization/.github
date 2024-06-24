@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Ninjas4744-Organization/.github/blob/main/profile/Facebook%20photo.jpg" alt="Ninjas 4744 Team Photo" />
+    <img src="https://github.com/Ninjas4744-Organization/.github/blob/main/profile/LOGO%20Banner.png" alt="Ninjas 4744 Team Photo" />
       <h2>Ninjas 4744</h2>
       <img src="https://github.com/Ninjas4744-Organization/.github/blob/main/profile/Hi.gif" alt="Hi" width="30" height="30" />
     </div>
